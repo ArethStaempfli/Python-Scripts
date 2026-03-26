@@ -3,7 +3,7 @@ from pypdf import PdfReader, PdfWriter
 import io
 import zipfile
 
-st.title("📄 PDF Umschlag Tool")
+st.title("📄 PDF Umschlag Tool für Alex Dietrich Stämpfli")
 
 uploaded_file = st.file_uploader("Upload PDF", type="pdf")
 
