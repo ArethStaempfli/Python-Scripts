@@ -3,3 +3,4 @@ pypdf
 pillow
 typing
 pypdf
+PyPDF2
